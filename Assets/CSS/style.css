@@ -1,0 +1,60 @@
+.navbar-brand img {
+    height: 60px;
+}
+.col-bg-pink {
+    background-color: #FFCCCC;
+    color: black; 
+}
+
+.row-bg-orange {
+    background-color: #FFD4C7;
+    color: black;
+}
+
+.row-bg-purple {
+    background-color: #BAB9E2;
+    color: black; 
+}
+
+.col-bg-darkpink {
+    background-color: #D7BDBD;
+    color: black; 
+}
+
+.col-bg-green {
+    background-color: #E1FFC3;
+    color: black; 
+}
+
+.col-bg-sky {
+    background-color: #77DFF5;
+    color: black; 
+}
+.col-bg-new {
+    background-color: #D7D4BD;
+    color: black; 
+}
+
+.sidebar{
+    height: 52.2vh;
+}
+.section1{
+    height: 25vh;
+}
+.section2{
+    height: 25vh;
+}
+.section3{
+    height: 25vh;
+}
+.section4{
+    height: 25vh;
+}
+.section5{
+    height: 25vh;
+}
+.section6{
+    height: 25vh;
+}
+
+
